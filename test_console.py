@@ -20,6 +20,7 @@ from console import HBNBCommand
 from io import StringIO
 from unittest.mock import patch 
 
+
 class TestHBNBCommand_prompting(unittest.TestCase):
     """Unittest for testing the prompting of the HBNB command interpreter."""
 
