@@ -1,15 +1,16 @@
 #!/usr/bin/python3
 """
-Module for Amenity class
+Defines the City class
 """
+
 from models.base_model import BaseModel
 
-
-class Amenity(BaseModel):
-    """Custom amenity class
-
-    Attributes:
-        name(str): amenity name
-
+class City(BaseModel):
+    """Represent a City
+       Attributes:
+           state_id (str): The id of the state
+           name (str): The name of the state
     """
+
+    state_id = ""
     name = ""
