@@ -1,4 +1,5 @@
-# 0x00. AirBnB clone - The console
+# 0x00. AirBnB Clone ― The ALX-Holberton BnB(The Console)
+![Optional Text](hbnb.png)
 
 ## 0x00.Table of contents
 
