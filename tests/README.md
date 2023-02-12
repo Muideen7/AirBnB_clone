@@ -5,6 +5,8 @@ The unittest module provides a rich set of tools for constructing and running te
 
 * Here is a short script to test three string methods:
 
+#!/usr/bin/python3
+
 import unittest
 
 class TestStringMethods(unittest.TestCase):
